@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<profiles version="15">
+    <profile kind="CodeFormatterProfile" name="forme" version="15">
+        <setting id="org.eclipse.jdt.core.formatter.comment.format_javadoc_comments" value="true" />
+    </profile>
+</profiles>
